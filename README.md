@@ -1,1 +1,1 @@
-# js-tasks
+# Javascript-tasks
